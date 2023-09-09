@@ -1,0 +1,10 @@
+Flask
+Flask_Cors
+googletrans
+gTTS
+pydub
+SpeechRecognition
+vercel_llm_api
+uvicorn
+python-multipart
+requests
